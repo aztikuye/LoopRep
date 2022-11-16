@@ -1,0 +1,8 @@
+C:\Users\Azmera\source\repos\SMS\Interface\bin\Debug\Interface.exe.config
+C:\Users\Azmera\source\repos\SMS\Interface\bin\Debug\Interface.exe
+C:\Users\Azmera\source\repos\SMS\Interface\bin\Debug\Interface.pdb
+C:\Users\Azmera\source\repos\SMS\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\Azmera\source\repos\SMS\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azmera\source\repos\SMS\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Azmera\source\repos\SMS\Interface\obj\Debug\Interface.exe
+C:\Users\Azmera\source\repos\SMS\Interface\obj\Debug\Interface.pdb

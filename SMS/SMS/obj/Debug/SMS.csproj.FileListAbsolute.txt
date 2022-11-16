@@ -1,0 +1,8 @@
+C:\Users\Azmera\source\repos\SMS\SMS\bin\Debug\SMS.exe.config
+C:\Users\Azmera\source\repos\SMS\SMS\bin\Debug\SMS.exe
+C:\Users\Azmera\source\repos\SMS\SMS\bin\Debug\SMS.pdb
+C:\Users\Azmera\source\repos\SMS\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+C:\Users\Azmera\source\repos\SMS\SMS\obj\Debug\SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azmera\source\repos\SMS\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\Azmera\source\repos\SMS\SMS\obj\Debug\SMS.exe
+C:\Users\Azmera\source\repos\SMS\SMS\obj\Debug\SMS.pdb
