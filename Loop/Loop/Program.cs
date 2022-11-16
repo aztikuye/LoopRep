@@ -10,6 +10,14 @@ namespace Loop
     {
         static void Main(string[] args)
         {
+            Student s = new Student();
+            s.Name = "Azmer Fantay";
+            s.Id = 1256;
+            s.Address = "841 selkrik way, Pick, OH";
+
+            Console.WriteLine( "your info is" +  s.GetStudentInfo(s.Id, s.Name, s.Address));
+
+            /*
             string[] name = { "max", "Eleni", "Behailu", "Sirgut" };
         
         foreach (var n in name)
@@ -54,7 +62,7 @@ namespace Loop
                          }
                 Console.WriteLine();
                     }    
-                
+              */  
                 Console.ReadLine();
         }
     }
